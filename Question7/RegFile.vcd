@@ -1,0 +1,230 @@
+$date
+	Sun May 19 15:57:00 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TBB $end
+$var wire 8 ! read_data2 [7:0] $end
+$var wire 8 " read_data1 [7:0] $end
+$var reg 1 # clk $end
+$var reg 2 $ read_reg1 [1:0] $end
+$var reg 2 % read_reg2 [1:0] $end
+$var reg 1 & reg_write_enable $end
+$var reg 1 ' rst $end
+$var reg 8 ( write_data [7:0] $end
+$var reg 2 ) write_reg [1:0] $end
+$scope module rf $end
+$var wire 1 # clk $end
+$var wire 2 * read_reg1 [1:0] $end
+$var wire 2 + read_reg2 [1:0] $end
+$var wire 1 & reg_write_enable $end
+$var wire 1 ' rst $end
+$var wire 8 , write_data [7:0] $end
+$var wire 2 - write_reg [1:0] $end
+$var reg 8 . read_data1 [7:0] $end
+$var reg 8 / read_data2 [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx /
+bx .
+b0 -
+b0 ,
+bx +
+bx *
+b0 )
+b0 (
+x'
+1&
+bx %
+bx $
+0#
+bx "
+bx !
+$end
+#5
+b0 "
+b0 .
+b0 $
+b0 *
+1#
+#10
+0#
+#15
+1#
+#20
+0#
+#25
+1#
+b1 (
+b1 ,
+b1 )
+b1 -
+#30
+b1 "
+b1 .
+0#
+b1 $
+b1 *
+#35
+1#
+#40
+0#
+#45
+1#
+#50
+0#
+b10 (
+b10 ,
+b10 )
+b10 -
+#55
+b10 "
+b10 .
+1#
+b10 $
+b10 *
+#60
+0#
+#65
+1#
+#70
+0#
+#75
+1#
+b11 (
+b11 ,
+b11 )
+b11 -
+#80
+b11 "
+b11 .
+0#
+b11 $
+b11 *
+#85
+1#
+#90
+0#
+#95
+1#
+#100
+0#
+#105
+1#
+#110
+0#
+#115
+1#
+#120
+0#
+#125
+1#
+#130
+0#
+#135
+1#
+#140
+0#
+#145
+1#
+#150
+0#
+#155
+1#
+#160
+0#
+#165
+1#
+#170
+0#
+#175
+1#
+#180
+0#
+#185
+1#
+#190
+0#
+#195
+1#
+#200
+0#
+#205
+1#
+#210
+0#
+#215
+1#
+#220
+0#
+#225
+1#
+#230
+0#
+#235
+1#
+#240
+0#
+#245
+1#
+#250
+0#
+#255
+1#
+#260
+0#
+#265
+1#
+#270
+0#
+#275
+1#
+#280
+0#
+#285
+1#
+#290
+0#
+#295
+1#
+#300
+0#
+#305
+1#
+#310
+0#
+#315
+1#
+#320
+0#
+#325
+1#
+#330
+0#
+#335
+1#
+#340
+0#
+#345
+1#
+#350
+0#
+#355
+1#
+#360
+0#
+#365
+1#
+#370
+0#
+#375
+1#
+#380
+0#
